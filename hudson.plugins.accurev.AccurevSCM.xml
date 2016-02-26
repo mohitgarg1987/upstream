@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.plugins.accurev.AccurevSCM_-AccurevSCMDescriptor plugin="accurev@0.6.35">
+  <generation>1</generation>
+  <__servers>
+    <hudson.plugins.accurev.AccurevSCM_-AccurevServer>
+      <name>Test</name>
+      <host>delmgar1668596</host>
+      <port>5050</port>
+      <username>postgres</username>
+      <password>OBF:1igd1igf1igh1idp1idr1idt</password>
+      <syncOperations>true</syncOperations>
+      <minimiseLogins>false</minimiseLogins>
+      <useNonexpiringLogin>false</useNonexpiringLogin>
+      <useRestrictedShowStreams>false</useRestrictedShowStreams>
+    </hudson.plugins.accurev.AccurevSCM_-AccurevServer>
+  </__servers>
+  <pollOnMaster>false</pollOnMaster>
+</hudson.plugins.accurev.AccurevSCM_-AccurevSCMDescriptor>
